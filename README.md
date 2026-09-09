@@ -6,19 +6,19 @@ Me chamo Alexandre Oliveira e atualmente estou cursando **Ciência da Computaç�
 
 Atualmente, tenho conhecimentos em **HTML e CSS** e estou estudando **JavaScript e Python**, buscando evoluir cada vez mais minhas habilidades através de projetos e experiências práticas.
 
-Também compartilho um pouco da minha vida e dos meus interesses através do Instagram **[@xandy_olvr](https://www.instagram.com/xandy_olvr/)**.
+Também compartilho um pouco da minha vida e dos meus interesses através do Instagram 
 
 <p align="left">
     <a href="https://github.com/AlexandreOAlvares">
         <img 
-            alt="Seguidores" 
+            alt="Followers" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/AlexandreOAlvares?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://github.com/AlexandreOAlvares?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
+            alt="Stars" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/AlexandreOAlvares?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
