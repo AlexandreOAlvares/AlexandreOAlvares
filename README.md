@@ -14,6 +14,20 @@ Atualmente, tenho conhecimentos em **HTML e CSS** e estou estudando **JavaScript
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
+    <a href="https://github.com/AlexandreOAlvares?tab=followers">
+        <img 
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/AlexandreOAlvares?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/AlexandreOAlvares?tab=repositories&sort=stargazers">
+        <img 
+            alt="Stars" 
+            title="GitHub Stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/AlexandreOAlvares?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+        />
+    </a>
 </p>
 
 ---
