@@ -11,7 +11,7 @@ Atualmente, tenho conhecimentos em **HTML e CSS** e estou estudando **JavaScript
         <img 
             alt="Instagram" 
             title="My Instagram" 
-            src="https://img.shields.io/badge/Instagram-xandy__olvr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
