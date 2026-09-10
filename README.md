@@ -1,112 +1,40 @@
 # 👨🏻‍💻 Alexandre Oliveira
 
-**`Estudante de Ciência da Computação`**
+# Olá, eu sou o Alexandre 👋
 
-Me chamo Alexandre Oliveira e atualmente estou cursando **Ciência da Computação**. Sou apaixonado por tecnologia e estou sempre buscando aprender e desenvolver meus conhecimentos na área de programação e desenvolvimento de sistemas.
-
-Atualmente, tenho conhecimentos em **HTML e CSS** e estou estudando **JavaScript e Python**, buscando evoluir cada vez mais minhas habilidades através de projetos e experiências práticas.
-
-<p align="left">
-    <a href="https://www.instagram.com/xandy_olvr/">
-        <img 
-            alt="Instagram" 
-            title="My Instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/AlexandreOAlvares?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AlexandreOAlvares?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/AlexandreOAlvares?tab=repositories&sort=stargazers">
-        <img 
-            alt="Stars" 
-            title="GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AlexandreOAlvares?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-</p>
+🎓 Estudante de Ciências da Computação.
+💼 Jovem Aprendiz (CIEE) em uma usina do setor sucroalcooleiro, atuando no laboratório de sacarose.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Sobre mim
 
-<img 
- align="left" 
- alt="HTML"
- title="HTML" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+- 💻 Desenvolvimento web: criei o **UNBREAKABLE**, um e-commerce completo de artigos de basquete, usando HTML, CSS e JavaScript, com estética dark e sistema de filtragem de produtos.
+- 📚 Em formação na área de Ciências da Computação.
 
-<img 
- align="left" 
- alt="CSS" 
- title="CSS"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+---
 
-<img 
- align="left" 
- alt="JavaScript"
- title="JavaScript"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### 🛠️ Tecnologias e ferramentas
 
-<img 
- align="left" 
- alt="Python" 
- title="Python"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<img 
- align="left" 
- alt="Git" 
- title="Git"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
-<img 
- align="left" 
- alt="GitHub" 
- title="GitHub"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+### 📌 Projeto em destaque
 
-<br/>
-<br/>
+- **UNBREAKABLE** — E-commerce de produtos de basquete (HTML/CSS/JS, tema dark, filtro de produtos)
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AlexandreOAlvares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 🎓 Formação
 
-<img 
- align="left" 
- alt="Linguagens mais utilizadas" 
- height="200" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOAlvares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+- Técnico em Desenvolvimento de Sistemas — Etec de Guaíra
+- Cursando Ciências da Computação
 
-</p>
+---
+
+### 📫 Como me encontrar
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
