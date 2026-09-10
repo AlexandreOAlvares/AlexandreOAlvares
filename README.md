@@ -1,5 +1,3 @@
-# 👨🏻‍💻 Alexandre Oliveira
-
 # Olá, eu sou o Alexandre 👋
 
 🎓 Estudante de Ciências da Computação.
